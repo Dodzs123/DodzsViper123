@@ -1,6 +1,10 @@
 .wc-msg {
-    text-align: center;
-    position: relative;
-    color: orangered;
-    font-family: sans-serif;
+  text-align: center;
+  position: relative;
+  color: orangered;
+  font-family: sans-serif;
+}
+
+.dmca-badge {
+  position: relative;
 }
